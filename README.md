@@ -9,3 +9,7 @@
 [Limpieza De Datos Primera Base](https://github.com/AndyCortez98/FCFM/blob/main/Ej_Limpieza_Equipo_10.ipynb)
 
 [Limpieza De Datos Segunda Base](https://github.com/AndyCortez98/FCFM/blob/main/Ej_LimpiezaConsumo_Equipo10.ipynb)
+
+[Avance Del PIA Base Principal](https://github.com/AndyCortez98/FCFM/blob/main/Avance_PIA_Eq10.ipynb)
+
+[Avance Del PIA Base Secundaria](https://github.com/AndyCortez98/FCFM/blob/main/Avance1_PIA_Equipo10.ipynb)
