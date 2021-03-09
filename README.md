@@ -16,3 +16,5 @@
 
 ## Fase II
 [Calificaciones Reglas De Asociacion](https://github.com/AndreshdzFCFM/Mineria-de-datos/blob/main/Calificaci%C3%B3n_Reglas.De.Asociaci%C3%B3n_Equipo10.pdf)
+
+[Presentacion Reglas De Asosiacion](https://github.com/AndyCortez98/FCFM/blob/main/Presentacion_Reglas.de.asociacion_Equipo10.pdf)
