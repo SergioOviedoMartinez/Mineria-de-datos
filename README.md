@@ -1,4 +1,4 @@
-# Mineria-de-
+# Mineria-de-Datos
 ## Fase I
 [Mapa Mental I](https://github.com/SergioOviedoMartinez/Mineria-de-datos/blob/main/MapaMental_1_1750532.pdf)
 
@@ -13,3 +13,6 @@
 [Avance Del PIA Base Principal](https://github.com/AndyCortez98/FCFM/blob/main/Avance_PIA_Eq10.ipynb)
 
 [Avance Del PIA Base Secundaria](https://github.com/AndyCortez98/FCFM/blob/main/Avance1_PIA_Equipo10.ipynb)
+
+## Fase II
+[Calificaciones Reglas De Asociacion](https://github.com/AndreshdzFCFM/Mineria-de-datos/blob/main/Calificaci%C3%B3n_Reglas.De.Asociaci%C3%B3n_Equipo10.pdf)
