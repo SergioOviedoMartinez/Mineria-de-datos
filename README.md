@@ -22,3 +22,5 @@
 [Practiva de Visualizacion 1](https://github.com/SergioOviedoMartinez/Mineria-de-datos/blob/main/Visualizaci%C3%B3n1_Equipo10.ipynb)
 
 [Practiva de Visualizacion 1](https://github.com/SergioOviedoMartinez/Mineria-de-datos/blob/main/Visualizaci%C3%B3n2_Equipo10.ipynb)
+
+[Mapa Mental II](https://github.com/SergioOviedoMartinez/Mineria-de-datos/blob/main/MapaMental_2_1750532.pdf)
