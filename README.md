@@ -18,3 +18,7 @@
 [Calificaciones Reglas De Asociacion](https://github.com/AndreshdzFCFM/Mineria-de-datos/blob/main/Calificaci%C3%B3n_Reglas.De.Asociaci%C3%B3n_Equipo10.pdf)
 
 [Presentacion Reglas De Asociacion](https://github.com/AndyCortez98/FCFM/blob/main/Presentacion_Reglas.de.asociacion_Equipo10.pdf)
+
+[Practiva de Visualizacion 1](https://github.com/SergioOviedoMartinez/Mineria-de-datos/blob/main/Visualizaci%C3%B3n1_Equipo10.ipynb)
+
+[Practiva de Visualizacion 1](https://github.com/SergioOviedoMartinez/Mineria-de-datos/blob/main/Visualizaci%C3%B3n2_Equipo10.ipynb)
