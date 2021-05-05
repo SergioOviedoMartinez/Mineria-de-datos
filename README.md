@@ -24,3 +24,14 @@
 [Practiva de Visualizacion 1](https://github.com/SergioOviedoMartinez/Mineria-de-datos/blob/main/Visualizaci%C3%B3n2_Equipo10.ipynb)
 
 [Mapa Mental II](https://github.com/SergioOviedoMartinez/Mineria-de-datos/blob/main/MapaMental_2_1750532.pdf)
+
+[Segundo Avance Del PIA](https://github.com/AndreshdzFCFM/Mineria-de-datos/blob/main/Avance%20PIA%202_EQ_10.ipynb)
+
+[Segundo Avance Del PIA Corregido](https://github.com/AndyCortez98/FCFM/blob/main/AvancePIA_II_Eq.10.ipynb)
+
+[Segundo Avance Del PIA Final](https://github.com/AndyCortez98/FCFM/blob/main/AvancePIA__II__10.ipynb)
+
+## Fase III
+[Avane De Poster](https://github.com/AndyCortez98/FCFM/blob/main/Estadisticas%20del%20suicidio.pdf)
+
+[Poster](https://github.com/AndyCortez98/FCFM/blob/main/Estad%C3%ADsticas%20de%20suicidio%20de%20la%20OMS%20(2).pdf)
